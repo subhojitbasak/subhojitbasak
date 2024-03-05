@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @subhojitbasak
-- 👀 I’m interested in Python . Database 
+- 👀 I’m interested in Java, Database , Terraform , Ansible
 - 🌱 I’m currently learning Machine Learning
 - 📫 My email address: subhojitbasak840@gmail.com
 
